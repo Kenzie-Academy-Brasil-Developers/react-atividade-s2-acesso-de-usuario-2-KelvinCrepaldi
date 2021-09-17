@@ -1,0 +1,28 @@
+.container-add {
+  background-color: rgba(255, 255, 255, 0.096);
+  width: 300px;
+  height: 160px;
+  border: 1px solid black;
+  display: flex;
+  flex-flow: wrap;
+  padding: 40px;
+  justify-content: center;
+  align-content: space-between;
+}
+
+.container-add label {
+  text-align: center;
+  width: 100px;
+  height: px;
+}
+
+.container-add input {
+  width: 190px;
+  height: 25px;
+}
+
+.container-add button {
+  width: 200px;
+  height: 30px;
+  margin: 20px;
+}

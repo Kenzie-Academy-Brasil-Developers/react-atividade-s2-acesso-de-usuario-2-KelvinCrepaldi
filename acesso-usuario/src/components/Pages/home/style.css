@@ -1,0 +1,8 @@
+.link-list {
+  list-style: none;
+  text-decoration: none;
+}
+
+.link-list span:hover {
+  color: aquamarine;
+}
